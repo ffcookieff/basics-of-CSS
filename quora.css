@@ -1,0 +1,44 @@
+h1 {
+  color: #a82400;
+}
+
+* {
+  font-family: "Courier New";
+}
+
+#login,
+#signup {
+  background-color: #a82400;
+  color: #fff;
+}
+
+.follow {
+  text-decoration: none;
+  font-weight: 900;
+}
+
+nav li a {
+  text-decoration: none;
+  font-weight: 500;
+  color: #a82400;
+}
+
+p + h3 {
+  color: #a82400;
+  font-weight: 500;
+}
+
+span > button {
+  color: white;
+  background-color: #a82400;
+}
+
+.upvote {
+  color: white;
+  background-color: green;
+}
+
+p {
+  font-weight: 900;
+  text-decoration: wavy;
+}
